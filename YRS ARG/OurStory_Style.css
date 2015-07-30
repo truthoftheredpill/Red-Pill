@@ -1,18 +1,13 @@
 body {
-	background-color:#FF0000;
+	background-color: #FF0000;
 }
 
-	p {
-    font-family: "Arial";
+p {
 	color: #FFFFFF;
-	margin: 50px;
+	font-family: "Arial";
 }
 
-h1 {
-	margin: 0 auto;
-}
-
-.button{
+.button2{
 	display: block;
 	height: 100px;
 	width: 300px;
@@ -26,10 +21,6 @@ h1 {
 	
 }
 
-a.button {
+a.button2 {
 	text-decoration: none;
-}
-
-#map {
-	height: 180px;
 }
